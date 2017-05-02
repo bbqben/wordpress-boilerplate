@@ -16,7 +16,7 @@ gulp.task('bs', function() {
 		/*
       Heads Up: You might need to change this to localhost:8888 if you are running on a different port
     */
-    proxy: 'http://localhost'
+    proxy: 'http://localhost:8888'
 	});
 });
 
